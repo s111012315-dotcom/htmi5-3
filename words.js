@@ -23,3 +23,4 @@
   { word: "戀愛", meaning: "romantic love; to fall in love", example: "他們正在戀愛中。(They are in a romantic relationship.)" }
 ];
 
+
